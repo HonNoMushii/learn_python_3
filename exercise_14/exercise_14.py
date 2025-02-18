@@ -2,6 +2,9 @@
 from sys import argv
 
 script, user_name = argv
+
+#python "exercise_13.py Gijs" to run the code
+
 prompt = '> '
 
 print(f"Hi {user_name}, I'm the {script} script.")
